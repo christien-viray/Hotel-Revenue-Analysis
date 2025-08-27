@@ -1,5 +1,5 @@
 ##### Hotel Revenue Analysis (2018-2020)
-
+Author: Christien Bryan Reyes Viray
 
 
 ###### Overview
@@ -69,3 +69,4 @@ Description: This dataset contains critical details of hotel information from th
 
 
 * City Hotel demonstrates a significant revenue spike during the fall (AUgust-November) of 2019, which potentially results in business travel, conferences, or seasonal city events. City Hotel's revenue remained relatively consistent throughout 2020. This indicates that it may have been more adaptable to pandemic-related disruptions, possibly due to higher demand of essential or business travel.
+
